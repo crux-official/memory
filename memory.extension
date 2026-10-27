@@ -1,0 +1,8 @@
+# The memory concern's header-only contract (static + dynamic renderings).
+format_version = 1
+name   = "memory"
+kind   = "interface"
+version        = "1.1.0"
+implements_api = "1.1.0"
+requires = []
+renderings = ["static", "dynamic"]
